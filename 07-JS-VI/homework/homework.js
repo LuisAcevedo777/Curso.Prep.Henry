@@ -80,6 +80,6 @@ module.exports = {
   operacionMatematica,
   sumarArray,
   forEach,
-  map,
+  map, 
   filter
 };
